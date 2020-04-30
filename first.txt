@@ -1,2 +1,4 @@
 first file 1
 first file line 2
+first file line 3
+after branch file
